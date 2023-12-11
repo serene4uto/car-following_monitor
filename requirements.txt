@@ -1,3 +1,4 @@
 carla
 pygame
 numpy
+Pillow
